@@ -1,0 +1,12 @@
+Enter the departing city name: 
+Enter the arriving city name: 
+Warning!!! Due to a snowstorm in Colorado, I-70 has been closed. This will effect the trips from Denver to Los_Angeles, San Francisco, and Seattle
+Enter the car's miles per gallon: 
+Enter the price of gas: 
+The distance between Denver and Phoenix is 942 miles.
+The cost of that trip is $150.34
+The average distance between Denver and all other cities is 1866.21 miles.
+The closest city is Phoenix, 942 miles away.
+The farthest city is Boston, 2838 miles away.
+The closest two cities are New York and New York, 130 miles apart.
+The farthest two cities are Miami and Miami, 4392 miles apart.
